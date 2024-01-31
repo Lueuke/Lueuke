@@ -25,7 +25,6 @@ Feel free to reach out to me through the following channels:
 
 You can also find me on social media platforms:
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Instagram: [@Lueuke](https://www.instagram.com/Lueuke)
  - [![GitHub](https://img.shields.io/badge/GitHub-Lueuke-blue?style=flat-square&logo=github)](https://github.com/Lueuke)
 
