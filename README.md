@@ -8,7 +8,7 @@ Hi there! 👋 I'm Luke Dekan, a passionate Computer Science student with a love
 
 ## 📺 Interests
 
-In my free time, I enjoy indulging in movies, Reading about spac, Playing video games, Discovering Indie music, and Exploring the world around me.
+In my free time, I enjoy indulging in movies, Reading about space, Playing video games, Discovering Indie music, and Exploring the world around me.
 
 ## ⚡ Fun Fact
 
