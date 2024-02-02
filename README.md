@@ -32,7 +32,7 @@ You can also find me on social media platforms:
 
 Here are some projects I'm currently working on:
 
-1. [BlockChain](https://github.com/Lueuke/Python-Projects/blob/main/blockchain.py): A simple blochain using python by implementing a RESTful API got mining blocks and creating transactions .
+1. [BlockChain](https://github.com/Lueuke/Python-Projects/blob/main/blockchain.py): A simple blochain using python by implementing a RESTful API that can mine blocks and creating transactions .
 2. [Match Prediction](https://github.com/Lueuke/Python-Projects/blob/main/MatchPrediciton.ipynb): A Pythong machine learning module that predicts the result of a soccor match.
 3. [Argon-Assualt](https://github.com/Lueuke/Argon-Assault): A Unity Rail shooter that combines premade assets,animation timeline, and particle systems.
 
